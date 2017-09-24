@@ -1,1 +1,1 @@
-print('main')
+import src.twitterStreamer.twitterStreamer
